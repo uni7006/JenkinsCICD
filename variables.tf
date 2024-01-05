@@ -47,5 +47,11 @@ variable "tags" {
     default     = {
         environment = "DEV"
         terraform   = "true"
+        owner       = "Younis"
+        ProjectName = "TU"
+        Name        = "Jenkins-test"
+        Client      = "TU"
+        Application = "Jenkins"
+        Department  = "Devops"
     }
 }
